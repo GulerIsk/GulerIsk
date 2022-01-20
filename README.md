@@ -1,6 +1,9 @@
 ### Hi, I'm Guler 🖖
 
-<p style = "font-family:Impact,helvetica;" >I am energetic and selfless person who always likes to develop and research. I graduated from computer engineering in July 2021. I try to improve myself as a software developer...</p>
+<h5><p > <li> 🗨️ I am energetic and selfless person who always likes to develop and research. <br>
+  <li> 👩‍🎓 I graduated from computer engineering in July 2021. <br>
+  <li> 💻 I try to improve myself as a software developer...
+  </p></h5>
 <br/>
 
 <a href="https://github.com/GulerIsk?tab=repositories"><img align="left" alt="Python" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -15,12 +18,15 @@
 
 <br/>
 <br/>
-
+ 
+ # 
 
 ![snake gif](https://github.com/GulerIsk/GulerIsk/blob/output/github-contribution-grid-snake.gif)
 
-<a href="https://www.linkedin.com/in/guleriskenderoglu/"><img align="right" alt="Guler|Linkedin" width="25 px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" /></a>
+#
+
+<a href="https://www.linkedin.com/in/guleriskenderoglu/"><img align="right" alt="Guler|Linkedin" width="35 px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" /></a>
 <a href="https://www.hackerrank.com/iskenderoglu_gu1">
-  <img align="right" alt="Guler | Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/640px-HackerRank_Icon-1000px.png" />
+  <img align="right" alt="Guler | HackerRank" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/640px-HackerRank_Icon-1000px.png" />
 </a>
 <p align="right"><strong>Look →</strong><p>
