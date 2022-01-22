@@ -25,8 +25,9 @@
 
 #
 -->
+
 <a href="https://www.linkedin.com/in/guleriskenderoglu/"><img align="right" alt="Guler|Linkedin" width="35 px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" /></a>
-<a href="https://www.hackerrank.com/iskenderoglu_gu1">
+<a href="https://www.hackerrank.com/GulerIsk">
   <img align="right" alt="Guler | HackerRank" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/640px-HackerRank_Icon-1000px.png" />
 </a>
 <p align="right"><strong>Look →</strong><p>
