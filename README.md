@@ -1,8 +1,8 @@
 ### Hi, I'm Guler 🖖
 
-<h5><p > <li> 🗨️ I am energetic and selfless person who always likes to develop and research. <br>
+<h5><p > <li> 🗨️ I am energetic and helpful person who always likes to develop and think to innovative. <br>
   <li> 👩‍🎓 I graduated from computer engineering in July 2021. <br>
-  <li> 💻 I try to improve myself as a software developer...
+  <li> 💻 I try to improve myself as a software developer. <br>
   </p></h5>
 <br/>
 
